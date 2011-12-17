@@ -14,7 +14,7 @@
 *.komodoproject
 .hg
 .wpr
-*.sublime*
+.sublime*
 
 #build and log files
 ###############################
