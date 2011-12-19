@@ -13,7 +13,7 @@
 .hgsvn
 *.komodoproject
 .hg
-.wpr
+*.wpr
 .sublime*
 
 #build and log files
@@ -89,5 +89,5 @@ WingDBG
 adminPassword.txt
 picked-versions.cfg
 .mr.developer.cfg
-
+src/*
 
