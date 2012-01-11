@@ -76,7 +76,8 @@ Data.f*
 
 # plone/zope stuff
 #########################
-version_pins.cfg
+README.html
+versions-untagged.cfg
 fake-eggs
 develop-eggs
 var/*
@@ -90,4 +91,5 @@ adminPassword.txt
 picked-versions.cfg
 .mr.developer.cfg
 src/*
+bin
 
